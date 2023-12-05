@@ -1,4 +1,3 @@
-<body style="background-color: white">
 <h1 align="center">Hi there👋, I'm Prakash</h1>
 <h4 align="left">I'm a passionate web developer who loves to explore the vast world of technology. Currently working on honing my skills in web development and contributing to exciting projects on GitHub. As a perpetual learner, I find joy in embracing new challenges and constantly expanding my knowledge in this ever-evolving field.</h4>
 
@@ -20,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praghu-b&show_icons=true&locale=en&layout=compact" alt="praghu-b" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praghu-b&show_icons=true&locale=en" alt="praghu-b" /></p>
-</body>
