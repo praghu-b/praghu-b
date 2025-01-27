@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praghu-b&label=Profile%20views&color=0e75b6&style=flat" alt="praghu-b" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praghu-b" alt="praghu-b" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://praghu-b.onrender.com/](https://praghu-b.onrender.com/)
